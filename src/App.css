@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+.App {
+    background-color: #111;
+}
+
+.loader {
+    background-color: #111;
+    min-height: 100vh;
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
+}
